@@ -16053,6 +16053,51 @@
                 "lastUpdateAt":1603256558,
                 "objectId":"Zarina",
                 "quantity":1
+            },
+			{
+                "lastUpdateAt":1631035251,
+                "objectId":"K25",
+                "quantity":1
+            },
+			{
+                "lastUpdateAt":1631035251,
+                "objectId":"K25_Body01",
+                "quantity":1
+            },
+			{
+                "lastUpdateAt":1631035251,
+                "objectId":"K25_Body01_P01",
+                "quantity":1
+            },
+			{
+                "lastUpdateAt":1631035251,
+                "objectId":"K25_Head01",
+                "quantity":1
+            },
+			{
+                "lastUpdateAt":1631035251,
+                "objectId":"K25_Head01_P01",
+                "quantity":1
+            },
+			{
+                "lastUpdateAt":1631035251,
+                "objectId":"K25_Weapon01",
+                "quantity":1
+            },
+			{
+                "lastUpdateAt":1631035251,
+                "objectId":"K25_Weapon01_P01",
+                "quantity":1
+            },
+			{
+                "lastUpdateAt":1631035251,
+                "objectId":"K25_outfit_006",
+                "quantity":1
+            },
+			{
+                "lastUpdateAt":1631035251,
+                "objectId":"K25_outfit_02",
+                "quantity":1
             }
         ]
     }

@@ -19462,6 +19462,41 @@
 				"lastUpdateAt": 161713323,
 				"objectId": "HK_W013",
 				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 161713323,
+				"objectId": "KS_Torso007_01",
+				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 161713323,
+				"objectId": "KS_Legs011_02",
+				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 161713323,
+				"objectId": "GK_W013_01",
+				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 161713323,
+				"objectId": "TW_W03_03",
+				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 161713323,
+				"objectId": "DF_Legs006_01",
+				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 161713323,
+				"objectId": "DF_Torso02_01",
+				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 161713323,
+				"objectId": "TW_Body02_01",
+				"quantity": 1
 			}
         ]
     }

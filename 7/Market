@@ -19882,6 +19882,31 @@
 				"lastUpdateAt": 1603281198,
 				"objectId": "S27_Torso007",
 				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 1603281198,
+				"objectId": "K21_Body009",
+				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 1603281198,
+				"objectId": "K21_W009",
+				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 1603281198,
+				"objectId": "K21_W009",
+				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 1603281198,
+				"objectId": "K21_Head009",
+				"quantity": 1
+			},
+			{
+				"lastUpdateAt": 1603281198,
+				"objectId": "K21_Head009",
+				"quantity": 1
 			}
         ]
     }

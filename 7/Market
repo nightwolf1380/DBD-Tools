@@ -3,6 +3,7 @@
     "message": "OK",
     "data": {
         "playerId": "null",
+        "version": "11.02.22",
         "inventory": [
             {
                 "lastUpdateAt": 1617130798,
@@ -20501,6 +20502,61 @@
 			{
               "lastUpdateAt": 1617210512,
               "objectId": "GS_Legs017",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1615272872,
+              "objectId": "K27",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1615272872,
+              "objectId": "S30",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1615272872,
+              "objectId": "K27_Head006",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1615272872,
+              "objectId": "K27_Head006",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1615272872,
+              "objectId": "K27_W006",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1615272872,
+              "objectId": "K27_Body006",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1615272872,
+              "objectId": "K27_outfit_006",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1615272872,
+              "objectId": "S30_Head006",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1615272872,
+              "objectId": "S30_Torso006",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1615272872,
+              "objectId": "S30_Legs006",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1615272872,
+              "objectId": "S30_outfit_006",
               "quantity": 1                
             }
 		]

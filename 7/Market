@@ -3,7 +3,6 @@
     "message": "OK",
     "data": {
         "playerId": "null",
-        "version": "11.02.22",
         "inventory": [
             {
                 "lastUpdateAt": 1617130798,
@@ -20617,6 +20616,81 @@
 			{
               "lastUpdateAt": 1615486630,
               "objectId": "SwedenSurvivor_outfit_015",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "S24_Head013",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "S24_Torso013",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "S24_Legs013",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "S24_outfit_013",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "S23_Head016",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "S23_Torso016",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "S23_Legs016",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "S23_outfit_016",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "AV_Head015",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "AV_Torso015",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "AV_Legs015",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "AV_outfit_015",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "KE_001",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "KE_002",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616037704,
+              "objectId": "KE_003",
               "quantity": 1                
             }
 		]

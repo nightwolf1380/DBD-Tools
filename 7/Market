@@ -20692,7 +20692,27 @@
               "lastUpdateAt": 1616037704,
               "objectId": "KE_003",
               "quantity": 1                
-            }
+            },
+			{
+              "lastUpdateAt": 1616672842,
+              "objectId": "KK_Body021",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616672842,
+              "objectId": "KK_Mask021",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616672842,
+              "objectId": "NK_Torso019",
+              "quantity": 1                
+            },
+			{
+              "lastUpdateAt": 1616672842,
+              "objectId": "DF_Torso017",
+              "quantity": 1                
+            }	
 		]
 	}
 }

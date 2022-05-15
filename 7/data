@@ -2,5 +2,6 @@
   "ProgramVersion": "2.0",
   "SSL_Version": "5.7.2",
   "DB_Version": "09.03.22",
-  "Steam_Customization": "0"
+  "Steam_Customization": "0",
+  "Steam_Configs": "SSL"
 }

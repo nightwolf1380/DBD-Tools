@@ -1,4 +1,5 @@
 {
   "ProgramVersion": "2.0",
-  "SSL_Version": "5.7.2"
+  "SSL_Version": "5.7.2",
+  "DB_Version": "09.03.22"
 }

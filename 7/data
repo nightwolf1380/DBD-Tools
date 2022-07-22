@@ -1,7 +1,5 @@
 {
-  "ProgramVersion": "2.0.1",
+  "ProgramVersion": "2.0.2",
   "SSL_Version": "0",
-  "DB_Version": "08.06.22",
   "SSL_Hash": "8934EF0A0865D1310F3E86AD812F6471",
-  "ItemDB_Version": "21.07.22"
 }
